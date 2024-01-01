@@ -1,0 +1,4 @@
+- This project is a simple pixel painting software that I made as my final project in my Computer Architecture class. 
+- We had the choice to make anything at all, as long as it was creative and over 1000 lines. 
+- Please download the report for sample runs and running instructions
+- Have fun!
